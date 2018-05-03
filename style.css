@@ -1,0 +1,96 @@
+.logotipo{
+		width: 60px;
+		height: auto;
+	}
+#social{
+	text-align: center;
+	background-color: grey;
+	padding: 80px 0;
+}
+.titulo-section{
+	font-size: 32pt;
+	font-weight: bold;
+}	
+
+#social a{
+
+	color: blue;
+	font-size: 18pt;
+	padding-right: 21px;
+
+}
+#social a:hover{
+
+	color: pink;
+	transition: 1s;
+}
+
+#institucional{
+
+	text-align: center;
+	background-color: white;
+	padding: 50px 0;
+}
+
+#institucional p{
+	color: #363636;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.dir{
+
+	background-color: green;
+}
+
+.esq{
+	background-color: #ADFF2F;
+	padding: 10px 0;
+}
+
+#atv1{
+	text-align: center;
+	background-color: white;
+	padding: 30px 0;
+}
+.sapato01{
+	height: 150px;
+}
+.sapato02{
+	height: 150px;
+}
+.sapato03{
+	height: 150px;
+}
+#blog{
+	padding-left: 42px;
+	text-align: center;
+}
+
+.titulo2{
+
+	background-color: black;
+}
+
+.image{
+	width: 200px;
+	background-color: darkgrey;
+}
+.image1{
+	width: 200px;
+	background-color: darkred;
+}
+.image2{
+	width: 200px;
+	background-color: darkgreen;
+}
+.telefone{
+	width: 50px;
+}
+.email{
+	width: 40px;
+}
+.insta{
+	width: 40px;
+}
+
